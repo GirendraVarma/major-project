@@ -1,4 +1,4 @@
-idn,24h_volume_usd,available_supply,id,last_updated,market_cap_usd,max_supply,name,percent_change_1h,percent_change_24h,percent_change_7d,price_btc,price_usd,rank,symbol,total_supply,Label,Results
+.\venv311\Scripts\python.exe manage.py runserveridn,24h_volume_usd,available_supply,id,last_updated,market_cap_usd,max_supply,name,percent_change_1h,percent_change_24h,percent_change_7d,price_btc,price_usd,rank,symbol,total_supply,Label,Results
 0,9007640000.0,16723525.0,bitcoin,1512549554,213000000000.0,21000000.0,Bitcoin,0.12,7.33,17.45,1.0,12739.5,1,BTC,16723525.0,1,1
 1,1551330000.0,96165368.0,ethereum,1512549553,43529446198.0,,Ethereum,-0.18,-3.93,-7.33,0.0361767,452.652,2,ETH,96165368.0,0,0
 2,1111350000.0,16840438.0,bitcoin-cash,1512549578,25295852764.0,21000000.0,Bitcoin Cash,1.65,-5.51,-4.75,0.12005,1502.09,3,BCH,16840438.0,1,1
